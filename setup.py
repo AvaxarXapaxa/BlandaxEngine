@@ -7,6 +7,6 @@ setup(
             'cdivision': True,
             'language_level': 3,
             'wraparound': False,
-        }, build_dir= 'build'),
+        }, build_dir= 'build', annotate=True),
     include_dirs = [numpy.get_include()]
 )
