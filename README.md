@@ -1,3 +1,6 @@
 # BlandaxEngine
  
-My bad 3D engine. k bye
+My bad-bad 3D engine. k bye
+
+yt vid on it
+https://youtu.be/8QRKS6S31kk
